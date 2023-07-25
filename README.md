@@ -13,14 +13,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop view:
+![desktop](https://github.com/sadafes/AccordionCard/assets/139676139/2193d181-1318-45cc-a0fa-80f5f9933c92)
+
+Mobile view:
+![mobile](https://github.com/sadafes/AccordionCard/assets/139676139/05237a7c-a909-4912-9a7a-24648bc1f175)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live Site URL](https://sadafes.github.io/AccordionCard/)
 
 
 ### Built with
